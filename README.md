@@ -4,9 +4,9 @@
 
 Actualmente estoy cursando 2.º de Desarrollo de Aplicaciones Web (DAW) y orientando mi trayectoria profesional hacia el desarrollo de software.
 
-Mi experiencia previa en Farmacia Hospitalaria me ha permitido desarrollar una sólida base en análisis de datos, gestión de procesos, automatización y atención al detalle, competencias que ahora aplico al desarrollo de aplicaciones.
+Mi experiencia previa en Farmacia Hospitalaria me ha permitido desarrollar una sólida base en análisis de datos, gestión de procesos, automatización y atención al detalle, competencias que busco aplicar al desarrollo de aplicaciones.
 
-Me apasiona combinar mis conocimientos en el ámbito sanitario con soluciones tecnológicas, buscando optimizar flujos de trabajo, análisis de información y desarrollo de proyectos que unan ciencia y software de manera eficiente.
+Me encantaría combinar mis conocimientos en el ámbito sanitario con soluciones tecnológicas, buscando optimizar flujos de trabajo, análisis de información y desarrollo de proyectos que unan ciencia y software de manera eficiente.
 
 ## 🛠️ Tecnologías
 
