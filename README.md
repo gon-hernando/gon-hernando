@@ -51,7 +51,7 @@ Aplicaciones y ejercicios desarrollados durante el ciclo de DAW, trabajando con 
 
 **Tecnologías:** PHP · HTML · CSS · JavaScript
 
-🔗 [Ver proyectos](https://github.com/gon-hernando/daw-lenguaje-de-marcas)
+🔗 [Ver proyectos](https://gon-hernando.github.io/daw-lenguaje-de-marcas/)
 
 ---
 
