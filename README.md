@@ -81,10 +81,11 @@ Desarrollo de herramientas en Excel/VBA para la automatización de procesos y se
 
 **Tecnologías:** Excel · VBA · Análisis de datos
 
+---
 
 ## 📄 CV
 
-[Ver mi CV](...)
+[Ver mi CV](https://gon-hernando.github.io/daw-lenguaje-de-marcas/tarea1-curriculum-vitae/)
 
 ## 📫 Contacto
 <a href="mailto:gonzalo.hernandoll@gmail.com">
