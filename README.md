@@ -33,7 +33,7 @@ Me encantaría combinar mis conocimientos en el ámbito sanitario con soluciones
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 🚀 Proyectos
+## 🚀 Proyectos DAW
 
 ### ☕ Lenguajes de programación
 
@@ -41,7 +41,7 @@ Proyectos y ejercicios desarrollados durante el ciclo de DAW, aplicando concepto
 
 **Tecnologías:** Java · POO · Colecciones · Genéricos
 
-🔗 [Ver proyecto](https://github.com/TUUSUARIO/daw-programacion)
+🔗 [Ver proyecto](https://github.com/gon-hernando/daw-programacion)
 
 ---
 
@@ -51,7 +51,7 @@ Aplicaciones y ejercicios desarrollados durante el ciclo de DAW, trabajando con 
 
 **Tecnologías:** PHP · HTML · CSS · JavaScript
 
-🔗 [Ver proyectos](https://github.com/TUUSUARIO/daw-lenguaje-de-marcas)
+🔗 [Ver proyectos](https://github.com/gon-hernando/daw-lenguaje-de-marcas)
 
 ---
 
@@ -61,7 +61,7 @@ Diseño y gestión de bases de datos relacionales mediante SQL y MySQL.
 
 **Tecnologías:** MySQL · SQL
 
-🔗 [Ver proyecto](https://github.com/TUUSUARIO/daw-bases-de-datos)
+🔗 [Ver proyecto](https://github.com/gon-hernando/daw-bases-de-datos)
 
 ---
 
