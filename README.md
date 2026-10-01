@@ -41,7 +41,7 @@ Proyectos y ejercicios desarrollados durante el ciclo de DAW, aplicando concepto
 
 **Tecnologías:** Java · POO · Colecciones · Genéricos
 
-🔗 [Ver proyecto](https://gon-hernando.github.io/daw-programacion/)
+🔗 [Ver proyectos](https://gon-hernando.github.io/daw-programacion/)
 
 ---
 
@@ -61,7 +61,7 @@ Diseño y gestión de bases de datos relacionales mediante SQL y MySQL.
 
 **Tecnologías:** MySQL · SQL
 
-🔗 [Ver proyecto](https://github.com/gon-hernando/daw-bases-de-datos)
+🔗 [Ver proyectos](https://github.com/gon-hernando/daw-bases-de-datos)
 
 ---
 
