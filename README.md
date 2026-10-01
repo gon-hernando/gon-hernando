@@ -41,7 +41,7 @@ Proyectos y ejercicios desarrollados durante el ciclo de DAW, aplicando concepto
 
 **Tecnologías:** Java · POO · Colecciones · Genéricos
 
-🔗 [Ver proyecto](https://github.com/gon-hernando/daw-programacion)
+🔗 [Ver proyecto](https://gon-hernando.github.io/daw-programacion/)
 
 ---
 
